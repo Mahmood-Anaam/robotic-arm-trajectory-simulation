@@ -60,11 +60,11 @@ The 6-DOF robotic arm used in this project is illustrated in the images below. T
 
 #### Gripper Geometry
 
-![Gripper Geometry](./src/figure_geometry_gripper.png)
+<img src="./src/figure_geometry_gripper.png" alt="Gripper Geometry" width="600" height="400">
 
 #### End Effector Frame and Task Layout
+<img src="./src/figure_end_effector_frame_task.png" alt="End Effector Frame and Task Layout" width="600" height="400">
 
-![End Effector Frame and Task Layout](./src/figure_end_effector_frame_task.png)
 
 ## Installation
 
