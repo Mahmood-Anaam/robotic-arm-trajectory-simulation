@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+spatialmath-python
+roboticstoolbox-python
+coppeliasim-zmqremoteapi-client
